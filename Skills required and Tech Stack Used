@@ -1,0 +1,20 @@
+Skills gained - Advanced SQL and MS Excel
+Advanced SQL skills - Creating a database, importinmg and exporting the dataset from and to SQL DB.
+MS Excel - Understanding and leveraging Excel's Pivot table - chart.
+
+Tech Stack Used - 
+1) MySQL Workbench –
+a) We have used latest version v 8.0.40. 
+b) MySQL Workbench is a powerful visual database design tool specifically designed for 
+MySQL databases. It offers a user-friendly interface and a comprehensive suite of 
+tools for database administration, development, and modelling.
+c) We have used for writing, execute and debug SQL queries. It’s database design allows 
+us to create and edit ER diagrams to visually model database structures.
+2) SQL Server Management Studio –
+a) SQL SMS is used to interact with the SQL server database. 
+b) The key features include – Query Editor – used for write, execute and debug queries, 
+Database Engine – for connecting and managing the server instances. Data import 
+and Export Wizard – for importing and exporting various sources like csv, excel and 
+other databases.
+3) MS Excel – used for visualisation. I have used pivot tables and pivot chart to analyse my 
+data output and visualise it
