@@ -2,10 +2,6 @@
 Analysing a company's end-to-end operations - identify areas for improvement within the company.
 Investigating metric spikes - understanding and explaining sudden changes in key metrics, such as a dip in daily user engagement or a drop in sales.
 
-
-As a Data Analyst, we will work closely with various teams, such as operations, support, and marketing, helping them derive valuable insights from the data they collect.
-In this project, we'll take on the role of a Lead Data Analyst at a company like Microsoft. Various datasets and tables required will be provided, and your task will be to derive insights from this data to answer questions posed by different departments within the company. 
-
 The goal is to use your advanced SQL skills to analyze the data and provide valuable insights that can help improve the company's operations and understand sudden changes in key metrics.
 
 Case Study 1: Job Data Analysis
